@@ -2,7 +2,7 @@
 
 ### Olá tudo bem? Aqui irei mostrar tudo oque estou aprendendo com o curso da DIO utilizando linguagem de programação java !!!
 
-#### Java é uma linguagem de programação orientada a objetos, simples de entender 
+#### Java é uma linguagem de programação orientada a objetos, simples de entender, portátil, robusta, segura, multi-thread, entre muitos outros benefícios.
 
 ## Tipos de variáveis:
 - Variável global;
