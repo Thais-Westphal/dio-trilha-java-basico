@@ -1,18 +1,57 @@
-## Getting Started
+## Introdução a Java - DIO Bootcamp backend com Java 👩🏼‍💻
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Olá tudo bem? Aqui irei mostrar tudo oque estou aprendendo com o curso da DIO utilizando linguagem de programação java !!!
 
-## Folder Structure
+#### Java é uma linguagem de programação orientada a objetos, simples de entender 
 
-The workspace contains two folders by default, where:
+## Tipos de variáveis:
+- Variável global;
+- Variável estática;
+- Variável local.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tipos de dados primitivos:
+- Boolean;
+- Char;
+- Byte;
+- Short;
+- Int;
+- Float;
+- Long;
+- Double;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Operadores:
+### Atribuição:
+- Representado pelo símbolo de igualdade "=".
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Aritméticos:
+Os operadores aritméticos são: 
+- Adição (+);
+- Subtração (-);
+- Multiplicação (*);
+- Divisão (/);
+- Módulo (%).
 
-## Dependency Management
+### Unários:
+- Operador unário de valor positivo – números são positivos sem esse operador explicitamente (+);
+- Operador unário de valor negativo – nega um número ou expressão aritmética (-);
+- Operador unário de incremento de valor – incrementa o valor em 1 unidade (++);
+- Operador unário de decremento de valor – decrementa o valor em 1 unidade (--);
+- Operador unário lógico de negação – nega o valor de uma expressão booleana (!).
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Ternário:
+- O operador ternário é representado pelos símbolos "?" e ":" utilizados na seguinte estrutura de sintaxe:
+  
+`expressao_booleana ? valor_se_verdadeiro : valor_se_falso`
+
+### Relacionais: 
+- Quando desejamos verificar se uma variável é IGUAL a outra `==`;
+- Quando desejamos verificar se uma variável é DIFERENTE da outra `!=`;
+- Quando desejamos verificar se uma variável é MAIOR que a outra `>`;
+- Quando desejamos verificar se uma variável é MENOR que a outra `<`;
+- Quando desejamos verificar se uma variável é MAIOR ou IGUAL a outra `>=`;
+- Quando desejamos verificar se uma variável é MENOR ou IGUAL que a outra `<=`;
+
+
+## Referências: 
+- [Java Básico](https://glysns.gitbook.io/java-basico)
+
