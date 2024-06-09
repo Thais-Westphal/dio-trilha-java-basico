@@ -51,6 +51,10 @@ Os operadores aritméticos são:
 - Quando desejamos verificar se uma variável é MAIOR ou IGUAL a outra `>=`;
 - Quando desejamos verificar se uma variável é MENOR ou IGUAL que a outra `<=`;
 
+### Lógicos:
+- `||` Operador lógico "OU";
+- `&&` Operador lógico "E".
+
 
 ## Referências: 
 - [Java Básico](https://glysns.gitbook.io/java-basico)
