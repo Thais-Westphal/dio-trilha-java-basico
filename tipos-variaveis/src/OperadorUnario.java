@@ -10,7 +10,6 @@ public class OperadorUnario
         System.out.println("Valor de x após o incremento: " + x);
 
         int y = 10;
-
         System.out.println("Valor inicial de y: " + y);
 
         y--; //Decremento de y
