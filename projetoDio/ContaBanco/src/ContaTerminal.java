@@ -22,7 +22,7 @@ public class ContaTerminal
         System.out.println("E por fim, digite o valor que você deseja sacar: ");
         double saldo = scanner.nextDouble();
 
-        System.out.println("Olá " +nomeCliente+ " " +sobrenome+ " obrigado por criar uma conta em nosso banco, sua agência é: " +agencia+ " ,o número da sua conta é: " +numeroConta+ ", e o seu saldo de R$: " + saldo+ " ja está desponível para saque");
+        System.out.println("Olá " +nomeCliente+ " " +sobrenome+ " obrigado por criar uma conta em nosso banco, sua agência é: " +agencia+ " , o número da sua conta é: " +numeroConta+ ", e o seu saldo de R$: " + saldo+ " ja está desponível para saque");
 
     }    
 }
