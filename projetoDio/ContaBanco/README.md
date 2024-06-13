@@ -26,7 +26,7 @@ Para utilizar este programa, siga estas etapas:
 ===== Seja bem-vindo ao banco ====
 
 Para darmos inicio ao seu cadastro digite o numero da agência:
-1234
+123-4
 
 Agora digite seu nome e sobrenome:
 Joao Silva
