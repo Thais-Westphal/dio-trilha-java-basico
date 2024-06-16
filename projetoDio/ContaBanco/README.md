@@ -1,18 +1,46 @@
-## Getting Started
+# Conta Bancária Terminal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este programa em Java é um terminal simples para criação de conta bancária. Ele solicita informações básicas do cliente, como número da agência, nome completo, número da conta e saldo inicial, e em seguida fornece um resumo das informações inseridas.
 
-## Folder Structure
+## Uso
 
-The workspace contains two folders by default, where:
+Para utilizar este programa, siga estas etapas:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Certifique-se de ter o Java instalado em seu sistema.
+2. Compile o programa ContaTerminal.java.
+3. Execute o programa compilado.
+4. Siga as instruções no terminal para inserir as informações da conta bancária.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Requisitos do Sistema
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Java JDK instalado
+- Sistema operacional compatível com Java
 
-## Dependency Management
+## Instalação e Execução
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clone o repositório ou baixe o arquivo ContaTerminal.java.
+2. Compile o programa usando o comando `javac ContaTerminal.java`.
+3. Execute o programa compilado com o comando `java ContaTerminal`.
+
+## Exemplo de Uso
+===== Seja bem-vindo ao banco ====
+
+Para darmos inicio ao seu cadastro digite o numero da agência:
+123-4
+
+Agora digite seu nome e sobrenome:
+Joao Silva
+
+Estamos quase lá!
+
+Digite o numero de 4 digitos da sua conta bancaria:
+5678
+
+E por fim, digite o valor que você deseja sacar:
+1000
+
+Olá Joao Silva, obrigado por criar uma conta em nosso banco, sua agência é: 1234 , o número da sua conta é: 5678, e o seu saldo de R$: 1000.0 já está disponível para saque.
+
+## Contribuição
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, por favor, abra uma issue ou envie um pull request.
+
