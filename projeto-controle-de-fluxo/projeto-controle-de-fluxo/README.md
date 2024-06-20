@@ -1,18 +1,14 @@
-## Getting Started
+# Projeto: Contador  
+## Visão Geral
+Este projeto em Java demonstra o uso de exceções customizadas para lidar com validações específicas durante a execução de um programa de contagem de números inteiros.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Componentes Principais
+- **Classe `Contador`:** Responsável por solicitar dois números do usuário e realizar a contagem entre esses valores.
+- **Exceção `ParametrosInvalidosException`:** Uma exceção customizada utilizada para indicar que os parâmetros fornecidos não estão na ordem esperada.
 
-## Folder Structure
+## Objetivos
+- Implementar boas práticas de programação Java, incluindo tratamento de exceções e estruturas de controle.
+- Demonstrar como estruturar um projeto simples em Java com foco na modularidade e clareza do código.
 
-The workspace contains two folders by default, where:
+Este projeto serve como um exemplo didático para estudantes e desenvolvedores interessados em aprender sobre manipulação de exceções e estruturação de programas em Java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
