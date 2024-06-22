@@ -2,7 +2,6 @@ public class Usuario {
     public static void main(String[] args) throws Exception 
     {
         SmartTv smartTv = new SmartTv();
-
         smartTv.ligar ();
         System.out.println("A TV está ligada? " +smartTv.ligada); 
         System.out.println("------------------------------------");
@@ -18,7 +17,5 @@ public class Usuario {
         smartTv.aumentarCanal();
         smartTv.diminuirCanal();
         System.out.println("Canal atual: " +smartTv.canal);
-        
-
     }
 }
