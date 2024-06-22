@@ -23,7 +23,7 @@ Para utilizar este programa, siga estas etapas:
 3. Execute o programa compilado com o comando `java ContaTerminal`.
 
 ## Exemplo de Uso
-===== Seja bem-vindo ao banco ====
+==== Seja bem-vindo ao banco ====
 
 Para darmos inicio ao seu cadastro digite o numero da agência:
 123-4
