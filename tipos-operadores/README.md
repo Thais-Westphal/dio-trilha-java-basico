@@ -58,4 +58,3 @@ Os operadores aritméticos são:
 
 ## Referências: 
 - [Java Básico](https://glysns.gitbook.io/java-basico)
-
