@@ -1,6 +1,7 @@
 ## Modelagem e Diagramação de um Componente iPhone
 ### Este projeto em Java implementa funcionalidades para um dispositivo móvel, modeladas através de interfaces que representam um Aparelho Telefônico, Navegador na Internet e Reprodutor Musical, além de uma classe Iphone que implementa essas interfaces.
-![Diagrama de classes](file:///C:/Users/hp/Downloads/DESAFIO%20DIO%20-%20Modelagem%20e%20Diagrama%C3%A7%C3%A3o%20de-2024-06-26-032158.svg)
+<img src="/DESAFIO-DIO/DESAFIO-DIO
+/DESAFIO DIO.png">
 
 ### Funcionalidades Implementadas
 - ReprodutorMusical 
