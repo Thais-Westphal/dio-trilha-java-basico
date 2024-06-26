@@ -1,18 +1,26 @@
-## Getting Started
+## Modelagem e Diagramação de um Componente iPhone
+### Este projeto em Java implementa funcionalidades para um dispositivo móvel, modeladas através de interfaces que representam um Aparelho Telefônico, Navegador na Internet e Reprodutor Musical, além de uma classe Iphone que implementa essas interfaces.
+![Diagrama de classes](file:///C:/Users/hp/Downloads/DESAFIO%20DIO%20-%20Modelagem%20e%20Diagrama%C3%A7%C3%A3o%20de-2024-06-26-032158.svg)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Funcionalidades Implementadas
+- ReprodutorMusical 
 
-## Folder Structure
+  O Reprodutor Musical permite reproduzir músicas, pausar a reprodução e selecionar uma música específica para tocar.
 
-The workspace contains two folders by default, where:
+- AparelhoTelefonico
+  
+  O Aparelho Telefônico suporta a funcionalidade de fazer chamadas telefônicas, atender chamadas recebidas e iniciar o correio de voz.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- NavegadorInternet
+  
+  O Navegador na Internet permite exibir páginas web, adicionar novas abas de navegação e atualizar páginas existentes.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Como Utilizar
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Clone o Repositório;
+- Importe o Projeto: Abra o projeto em sua IDE Java preferida (Eclipse, IntelliJ, etc.);
+- Execute o Código: Utilize a classe Main ou crie instâncias das classes ReprodutorMusical, Telefone e NavegadorInternet para testar as funcionalidades implementadas.
 
-## Dependency Management
+### Contribuições
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Contribuições são bem-vindas! Sinta-se à vontade para abrir pull requests com melhorias, correções de bugs ou novas funcionalidades.
