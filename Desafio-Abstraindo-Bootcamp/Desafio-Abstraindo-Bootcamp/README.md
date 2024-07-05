@@ -1,18 +1,19 @@
-## Getting Started
+# Projeto BootCamp 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+  O projeto BootCamp para Desenvolvedores é um sistema Java para gerenciar boot camps de desenvolvimento, permitindo que desenvolvedores se inscrevam em cursos, mentorias e outros conteúdos educacionais.
 
-The workspace contains two folders by default, where:
+### Funcionalidades Implementadas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+  - Gerenciamento de BootCamps: criação, descrição, datas de início e término.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+  - Inscrição de Desenvolvedores em BootCamps.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+  - Adição de Conteúdos (como cursos e mentorias) aos BootCamps.
 
-## Dependency Management
+  - Progresso dos Desenvolvedores: registro de conteúdos concluídos e cálculo de XP.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Contribuições
+
+  Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para sugestões ou problemas encontrados.
